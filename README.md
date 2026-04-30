@@ -2,8 +2,8 @@
 
 # Hi, I'm Bipin 👋
 
-**Backend-focused Full Stack Developer · Java & Spring Boot · React / Next.js**  
-_Building production-grade systems from Pokhara, Nepal 🇳🇵_
+**Backend-focused Full Stack Developer · Java & Spring Boot · Node.js & Express.js · React / Next.js**  
+_Building from Pokhara, Nepal 🇳🇵_
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-bipin--koirala.com.np-1A56B0?style=for-the-badge&logo=vercel&logoColor=white)](https://www.bipin-koirala.com.np/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bipin-koirala-6b616636a/) [![Email](https://img.shields.io/badge/Email-bipinkoirala2061@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:bipinkoirala2061@gmail.com)
 
@@ -11,18 +11,18 @@ _Building production-grade systems from Pokhara, Nepal 🇳🇵_
 
 ## About Me
 
-I'm a 2nd-year BIT student who builds things that go well beyond coursework. My main focus is backend architecture — microservices, distributed systems, auth flows, and integrations. I'm also comfortable on the frontend with React and Next.js.
+I'm a BIT student who builds things that go well beyond coursework. My main focus is backend architecture — microservices, distributed systems, auth flows, and integrations. I'm comfortable on the frontend with React and Next.js.
 
 Right now I'm working on a **full-stack e-commerce platform** built with Spring Boot microservices on the backend and Next.js on the frontend. It's the kind of project I'd want to see from a senior developer — because that's the standard I aim for.
 
 - 🔭 Currently building → **E-Commerce Microservices Platform** (Java 25 · Spring Boot 4 · Spring Cloud)
-- 🌱 Actively learning → **System Design · DSA · Distributed Systems**
+- 🌱 Actively learning → **System Design · DSA · Distributed Systems · API Security**
 - ⚡ Daily habit → **LeetCode** (87+ problems solved and counting)
 - 💬 Ask me about → Spring Boot, JWT auth, microservices architecture, REST APIs
 
 ---
 
-## 🛠 Tech Stack
+## 🛠Tech Stack
 
 **Backend**  
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white) ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white) ![Spring Cloud](https://img.shields.io/badge/Spring_Cloud-6DB33F?style=flat-square&logo=spring&logoColor=white) ![Spring Security](https://img.shields.io/badge/Spring_Security-6DB33F?style=flat-square&logo=springsecurity&logoColor=white) ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white) ![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white) ![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=flat-square&logo=hibernate&logoColor=white) ![Maven](https://img.shields.io/badge/Maven-C71A36?style=flat-square&logo=apachemaven&logoColor=white)
