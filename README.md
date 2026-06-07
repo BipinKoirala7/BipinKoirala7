@@ -3,7 +3,7 @@
 # Hi, I'm Bipin 👋
 
 **Backend-focused Full Stack Developer · Java & Spring Boot · Node.js & Express.js · React / Next.js**  
-_Building from Pokhara, Nepal 🇳🇵_
+_Building from Nepal 🇳🇵_
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-bipin--koirala.com.np-1A56B0?style=for-the-badge&logo=vercel&logoColor=white)](https://www.bipin-koirala.com.np/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bipin-koirala-6b616636a/) [![Email](https://img.shields.io/badge/Email-bipinkoirala2061@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:bipinkoirala2061@gmail.com)
 
@@ -11,14 +11,14 @@ _Building from Pokhara, Nepal 🇳🇵_
 
 ## About Me
 
-I'm a BIT student who builds things that go well beyond coursework. My main focus is backend architecture — microservices, distributed systems, auth flows, and integrations. I'm comfortable on the frontend with React and Next.js.
+Backend-first. I build across the full stack but the real depth is on the server side — distributed systems, auth flows, async pipelines, and APIs built to scale. Comfortable on the frontend with React and Next.js when the project calls for it.
 
-Right now I'm working on a **full-stack e-commerce platform** built with Spring Boot microservices on the backend and Next.js on the frontend. It's the kind of project I'd want to see from a senior developer — because that's the standard I aim for.
+My work spans Java & Spring Boot on the backend, Node.js & Express for lighter services, PostgreSQL and MongoDB for persistence, and Docker for containerization. I reach for the right tool — not just the familiar one.
 
-- 🔭 Currently building → **E-Commerce Microservices Platform** (Java 25 · Spring Boot 4 · Spring Cloud)
-- 🌱 Actively learning → **System Design · DSA · Distributed Systems · API Security**
-- ⚡ Daily habit → **LeetCode** (87+ problems solved and counting)
-- 💬 Ask me about → Spring Boot, JWT auth, microservices architecture, REST APIs
+Currently building a production-grade **e-commerce platform** — Spring Boot microservices, Spring Cloud, RabbitMQ for async communication, Stripe for payments, and a Next.js storefront.
+
+- 🔭 Currently building → **E-Commerce Microservices Platform** (Spring Boot · Spring Cloud · Next.js)
+- 🌱 Currently learning → **System Design · CI/CD · DSA · API Security**
 
 ---
 
@@ -38,25 +38,15 @@ Right now I'm working on a **full-stack e-commerce platform** built with Spring 
 
 ---
 
-## 📊 Stats
-
-<div align="center">
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=BipinKoirala7&layout=compact&theme=tokyonight&hide_border=true)
-
-</div>
-
 ## 🧩 LeetCode
 
 ![LeetCode Stats](https://leetcard.jacoblin.cool/8rB2ePuUKw?theme=dark&font=NTR&ext=heatmap)
-
-> 87+ problems solved · Practising daily · Focus: Arrays, Trees, DP, Graphs
 
 ---
 
 <div align="center">
 
-_Open to internship and junior developer opportunities_  
+_Open to junior developer opportunities_  
 **Let's build something serious → [bipinkoirala2061@gmail.com](mailto:bipinkoirala2061@gmail.com)**
 
 </div>
