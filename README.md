@@ -11,9 +11,9 @@ _Building from Nepal 🇳🇵_
 
 ## About Me
 
-Backend-first. I build across the full stack but the real depth is on the server side — distributed systems, auth flows, async pipelines, and APIs built to scale. Comfortable on the frontend with React and Next.js when the project calls for it.
+Backend-first. I build across the full stack, but the real depth is on the server side — distributed systems, auth flows, async pipelines, and APIs built to scale. Comfortable on the frontend with React and Next.js when the project calls for it.
 
-My work spans Java & Spring Boot on the backend, Node.js & Express for lighter services, PostgreSQL and MongoDB for persistence, and Docker for containerization. I reach for the right tool — not just the familiar one.
+My work spans Java & Spring Boot and Node.js & Express on the backend, PostgreSQL and MongoDB for persistence, and Docker for containerization. I pick the right tool for the job rather than defaulting to one stack.
 
 - 🌱 Currently learning → **System Design · API Security · Caching · Cloud Deployment**
 
